@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    background-color: beige;
+   
+
+}
+
+
+
+div.portfolio{
+    margin: 30px 40px 30px 40px;
+    float: left;
+    background-color: #ffffff
+  
+    
+  
+    
+}
+
+
+.portfolio1{
+    background-color: #ffffff;
+    float: left;
+}
+
+header{
+    color:white;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    display: block;
+    padding: 25px;
+}
+
+h1{
+    color: #4aaaa5;
+    border-bottom: 2px #0e0303;
+    background-color: #ffffff;
+    margin-left: 10px; 
+}
+
+/*size of the website*/
+body{
+    background-color: #ffffff;
+    max-width: 960px;
+    margin: auto;
+}
+
+/* Nav links */
+a {
+    text-decoration: none;
+    margin: 10px 10px 0px 10px;
+    background-color: #ffffff;
+    text-align: left;    
+}
+
+/*nav links coloring*/
+ul{
+    background-color: #ffffff;
+    text-align: end;
+}
+
+/* Paragraph image*/
+#imageI {
+    float: left;
+    display:block;
+    clear: both;
+    margin: 0px 10px 10px 10px;
+}
+
+p {
+    background-color: #ffffff;
+    margin: 10px 10 px 10px 10px;
+    text-align: justify;
+}
+
+/*main box in three HTML*/
+.box3{
+    background-color: #ffffff;
+    border: #666666 1px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Contact form button CSS*/
+button{
+    width: 10%;
+    background-color: #4aaaa5;
+    color:white;
+    border: none;
+    padding: 10px;
+}
+
+
+
+#footer{
+    background-color: #666666;
+    color: aliceblue;
+    border-top: solid 4px #4aaaa5;
+   
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    clear: both;
+    margin: auto;
+}
