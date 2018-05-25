@@ -83,6 +83,14 @@ p {
     margin-bottom: 10px;
 }
 
+input{
+    background-color: #ffffff;
+}
+
+textarea{
+    background-color: #ffffff;
+}
+
 /* Contact form button CSS*/
 button{
     width: 10%;
@@ -98,7 +106,6 @@ button{
     background-color: #666666;
     color: aliceblue;
     border-top: solid 4px #4aaaa5;
-   
     text-align: center;
     padding: 5px;
     margin-top: 10px;
